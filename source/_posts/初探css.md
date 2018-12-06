@@ -1,3 +1,8 @@
+---
+title: 初探css
+date: 2018-04-24 13:23:27
+tags:
+---
 # CSS的全称
 层叠样式表(英文全称：Cascading Style Sheets)
 样式定义如何显示Html元素，样式通常储存在样式表。实现了内容与样式相分离。
